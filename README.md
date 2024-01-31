@@ -1,5 +1,5 @@
 # hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutorial on https://www.w3schools.com
 
-This repository is built step by step in the tutorial.
+This is my first week at CapaCITI/Absa's learnership. This week I am focusing on learning html, git, and github.
+
+Hello World repository for learning HTML, Git, and GitHub.
